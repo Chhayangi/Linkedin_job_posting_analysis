@@ -38,6 +38,16 @@ Linkedin_job_posting_analysis
 ├── dashboard_preview.png
 └── chart_visualization.png
 
+---
+
+## 📷 Application Preview
+
+### Main Interface
+![App Preview](dashboard_preview.png)
+
+### Visualization Example
+![Chart](chart_visualization.png)
+
 
 ---
 
@@ -52,9 +62,14 @@ pip install -r requirements.txt
 Run Streamlit App
 streamlit run app.py
 
+---
+
 Author
 
 Chhayangi Nishad
 Aspiring Data Analyst | Python | Data Visualization | Streamlit
+
+---
+
 ⭐ If you like this project, feel free to star the repository!
 
