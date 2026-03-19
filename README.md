@@ -64,13 +64,13 @@ streamlit run app.py
 
 ---
 
-##Author
+## 👩‍💻 Author
 
 **Chhayangi Nishad**
 Aspiring Data Analyst | Python | Data Visualization | Streamlit
 
 ---
 
-⭐ ##If you like this project, 
+## ⭐ If you like this project 
 feel free to ⭐ the repository!
 
